@@ -1,12 +1,18 @@
 # Fetchbook: Easy Facebook Video Downloading
 
-![Fetchbook Logo](link-to-your-logo.png)
+<br />
+<p align="center">
+    <a href="https://edukit" target="_blank"><img width="300" height="115" src="assets/fetchbook.png" alt="Fetchbook Logo"></a>
+    <br />
+    <br />
+    <b>Fetchbook is a Flutter plugin designed to simplify Facebook video downloading within your Flutter applications. With Fetchbook, effortlessly integrate video downloading capabilities and enhance the user experience of your Flutter apps.</b>
+    <br />
+    <br />
 
 [![Pub](https://img.shields.io/pub/v/fetchbook)](https://pub.dev/packages/fetchbook) 
 [![licence](https://img.shields.io/badge/Licence-BIT-green.svg)](https://github.com/swiftsyncnp/fetchbook/blob/master/LICENSE) 
 [![Top Language](https://img.shields.io/github/languages/top/swiftsyncnp/fetchbook?color=4ca456)](https://github.com/swiftsyncnp/fetchbook)
 
-Fetchbook is a Flutter plugin designed to simplify Facebook video downloading within your Flutter applications. With Fetchbook, effortlessly integrate video downloading capabilities and enhance the user experience of your Flutter apps.
 
 ## Features
 

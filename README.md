@@ -1,7 +1,5 @@
-<center>
 > [!IMPORTANT]  
 > This plugin is still under construction !!
-</center>
 
 # Fetchbook: Easy Facebook Video Downloading
 
